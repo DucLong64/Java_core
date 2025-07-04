@@ -1,4 +1,4 @@
-package OOP;
+package OOP.AbstractClass;
 
 public abstract class Phone {
     public abstract void insertPhone(String name, String phone);
